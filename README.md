@@ -1,35 +1,38 @@
-<h3>WanderLust is a full-stack travel marketplace inspired by Airbnb, where users can explore, create, and review listings for travel destinations.</h3>
+<h1>WanderLust is a <b>full-stack</b> travel marketplace inspired by Airbnb, where users can explore, create, and review listings for travel destinations.</h1>
 
-🔑 Key Highlights:
+<b>🔑 Key Highlights:</b><br>
+<br>
+🌐 Built with<b> Node.js, Express.js, MongoDB, </b>and <b>REST APIs</b> (MVC architecture)<br>
+🔐 Secure <b>authentication</b> & <b>authorization</b> with Passport.js & role-based access<br>
+🗺 Interactive maps powered by Mapbox for precise property locations<br>
+📸 Image uploads & storage with Cloudinary<br>
+🎨 Responsive UI using <b>EJS, HTML, CSS, and Bootstrap</b><br>
+☁ Deployed on<b> Render </b>for production-ready hosting<br>
 
-🌐 Built with Node.js, Express.js, MongoDB, and REST APIs (MVC architecture)
-🔐 Secure authentication & authorization with Passport.js & role-based access
-🗺 Interactive maps powered by Mapbox for precise property locations
-📸 Image uploads & storage with Cloudinary
-🎨 Responsive UI using EJS, HTML, CSS, and Bootstrap
-☁ Deployed on Render for production-ready hosting
-
-💡 What I Learned:
-
+💡 What I Learned:<br>
+<br>
  Working on WanderLust gave me real-world experience in RESTful API design, database modeling with Mongoose, geospatial data handling, and cloud-based deployment. I also strengthened my skills in clean UI design and scalable full-stack development.
 
-🔗 Live Demo: [https://lnkd.in/dB8W5Ams]
+🔗 Live Demo: [https://lnkd.in/dB8W5Ams]<br>
  🔗 GitHub Repo: [https://lnkd.in/dGKGgT95]
 
-💻 Tech Stack:
-.Frontend: EJS, HTML,CSS, Bootstrap (for styling)
-.Backend:Node.js ,Express.js,MongoDB, Mongoose 
-.Authentication: passport.js(local strategy), Express-session, Connect-Flash 
-.Image Storage:Cloudinary integration for secure and scalable image uploads
-.Other Tools: Method-override ,dotenv,EJS-Mate,custom Express error handling 
-✨Key Features:-
-.User signup/login with authentication & authorization 
-.Add, edit and delete travel listings and reviews 
-.Upload and manage images via Cloudinary 
-.Flash message for user feedback 
-.MVC architecture for clear, maintainable code
+<b>💻 Tech Stack:</b><br>
+.Frontend: EJS, HTML,CSS, Bootstrap (for styling)<br>
+.Backend:Node.js ,Express.js,MongoDB, Mongoose <br>
+.Authentication: passport.js(local strategy), Express-session, Connect-Flash <br>
+.Image Storage:Cloudinary integration for secure and scalable image uploads<br>
+.Other Tools: Method-override ,dotenv,EJS-Mate,custom Express error handling <br><br>
+<b>✨Key Features:-</b><br>
+.User signup/login with authentication & authorization <br>
+.Add, edit and delete travel listings and reviews <br>
+.Upload and manage images via Cloudinary <br>
+.Flash message for user feedback <br>
+.MVC architecture for clear, maintainable code<br>
 
-Really proud of how this turned out — and I’d love to hear your thoughts, suggestions, or feedback! 🚀
+Really proud of how this turned out — and I’d love to hear your thoughts, suggestions, or feedback! 🚀<br>
 
-hashtag#WebDevelopment hashtag#FullStack hashtag#NodeJS hashtag#MongoDB hashtag#Express hashtag#TravelTech#Airbnb#EJS#MVC#WanderLust#MERN
+hashtag#WebDevelopment hashtag#FullStack hashtag#NodeJS hashtag#MongoDB hashtag#Express hashtag#TravelTech#Airbnb#EJS#MVC#WanderLust#MERN<br>
 
+
+
+<b>📫 Reach me at: shyamlade06@gmail.com<b>
