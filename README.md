@@ -1,6 +1,6 @@
 <h1>WanderLust is a <b>full-stack</b> travel marketplace inspired by Airbnb, where users can explore, create, and review listings for travel destinations.</h1>
 
-![My Model]([Airbnb/Screenshot(5).png](https://github.com/Shyampatil07/Airbnb/blob/main/Screenshot(5).png?raw=true))
+![My Model](https://github.com/Shyampatil07/Airbnb/blob/main/Screenshot(5).png?raw=true)
 
 
 <b>🔑 Key Highlights:</b><br>
